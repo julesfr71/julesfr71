@@ -155,16 +155,16 @@ Que ce soit pour un serveur de jeu, un bot Discord ou un site web, j'aime pouvoi
 
 ---
 
-## 💬 Mon statut Discord
+## 🎧 En ce moment sur Spotify
 
 <p align="center">
-  <a href="https://discord.com/users/1420449948285141013">
-    <img src="https://lanyard.cnrad.dev/api/1420449948285141013?theme=dark&bg=0D1117&borderRadius=12&idleMessage=Probablement%20en%20train%20de%20coder" alt="Statut Discord de JulesFR" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nqp5ana3beoryf5ipirzbu4aeu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Musique écoutée sur Spotify" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Mis à jour en direct : statut, activité en cours et musique.</sub>
+  <sub>Ce que j'écoute en ce moment.</sub>
 </p>
 
 ---
