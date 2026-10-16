@@ -154,7 +154,7 @@ Que ce soit pour un serveur de jeu, un bot Discord ou un site web, j'aime pouvoi
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nqp5ana3beoryf5ipirzbu4aeu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Musique écoutée sur Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nqp5ana3beoryf5ipirzbu4aeu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Musique écoutée sur Spotify" />
   </a>
 </p>
 
