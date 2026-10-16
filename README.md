@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BASED_IN-France-101827?style=flat-square&logo=googlemaps&logoColor=00D9FF" alt="France" />
+  <img src="https://img.shields.io/badge/BASED_IN-France-101827?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IiMwMDU1QTQiLz48cmVjdCB4PSIxIiB3aWR0aD0iMSIgaGVpZ2h0PSIyIiBmaWxsPSIjRkZGRkZGIi8%2BPHJlY3QgeD0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMiIgZmlsbD0iI0VGNDEzNSIvPjwvc3ZnPg%3D%3D" alt="France" />
   <img src="https://img.shields.io/badge/FOCUS-Development-101827?style=flat-square&logo=visualstudiocode&logoColor=00D9FF" alt="Développement" />
-  <img src="https://img.shields.io/badge/LANGUE-Fran%C3%A7ais-101827?style=flat-square&logo=googletranslate&logoColor=00D9FF" alt="Français" />
+  <img src="https://img.shields.io/badge/LANGUE-Fran%C3%A7ais-101827?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRDlGRiIgZD0iTTQgM2gxNmEyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0yIDJIOWwtNSA0di00SDRhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJ6Ii8%2BPC9zdmc%2B" alt="Français" />
   <img src="https://komarev.com/ghpvc/?username=JulesFR&style=flat-square&color=6C3BCE&label=VISITES" alt="Visites du profil" />
   <img src="https://img.shields.io/github/followers/JulesFR?style=flat-square&color=6C3BCE&labelColor=101827&logo=github" alt="Followers" />
 </p>
