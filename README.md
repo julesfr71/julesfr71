@@ -209,3 +209,24 @@ Que ce soit pour un serveur de jeu, un bot Discord ou un site web, j'aime pouvoi
 <p align="center">
   <b>JulesFR</b> · Fait avec passion et quelques lignes de code.
 </p>
+
+
+<p align="center">
+  <details>
+    <summary>🥚</summary>
+    <br>
+
+```text
+$ whoami
+JulesFR
+
+$ cat secret.txt
+Tu as trouvé l'easter egg ! 🎉
+Si tu lis ça, on devrait probablement discuter de code.
+
+$ sudo make-coffee
+[sudo] mot de passe : ********
+☕ Café en préparation... Erreur 418 : je suis une théière.
+```
+  </details>
+</p>
