@@ -38,7 +38,7 @@ Passionné par l'informatique et le développement, j'aime créer mes propres pr
 
 Que ce soit pour un serveur de jeu, un bot Discord ou un site web, j'aime pouvoir personnaliser chaque détail et construire quelque chose qui me ressemble.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/01-Plugins%20%26%20Gaming-101827?style=flat-square&labelColor=263B80" alt="Plugins et gaming" />
   <img src="https://img.shields.io/badge/02-Web%20Development-101827?style=flat-square&labelColor=263B80" alt="Développement web" />
   <img src="https://img.shields.io/badge/03-Creative%20Projects-101827?style=flat-square&labelColor=263B80" alt="Projets créatifs" />
@@ -142,11 +142,6 @@ Que ce soit pour un serveur de jeu, un bot Discord ou un site web, j'aime pouvoi
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JulesFR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=E6EDF3&count_private=true" alt="Statistiques GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesFR&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&langs_count=8" alt="Langages les plus utilisés" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JulesFR&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Série de contributions" />
 </p>
 
 <p align="center">
